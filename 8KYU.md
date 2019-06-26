@@ -185,3 +185,67 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+## Count the Monkeys!
+```javascript
+function monkeyCount(n) {
+  const arr = [];
+  for(let i = 1; i <= n; i++) {
+    arr.push(i);
+  }
+  return arr;
+}
+```
+
+## Count Odd Numbers below n
+```javascript
+const oddCount = n => Math.floor(n / 2)
+```
+
+## Student's Final Grade
+```javascript
+function finalGrade (exam, projects) {
+  if(exam > 90 || projects > 10){
+    return 100;
+  } else if(exam > 75 && projects >= 5) {
+    return 90;
+  } else if(exam > 50 && projects >= 2) {
+    return 75;}
+  else {
+    return 0;
+  }
+}
+```
+
+## Count by X
+```javascript
+function countBy(x, n) {
+  var z = [];
+  for(let i = 1; i <= n; i++){
+    z.push(i*x);
+  }
+  return z;
+}
+```
+
+## Correct the mistakes of the character recognition software
+```javascript
+function correct(string){
+  return string.replace(/5/g, 'S').replace(/0/g, 'O').replace(/1/g, 'I')
+}
+```
+
+##
+```javascript
+
+```
+
+##
+```javascript
+
+```
+
+##
+```javascript
+
+```
