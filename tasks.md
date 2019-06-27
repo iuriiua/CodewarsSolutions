@@ -1,21 +1,21 @@
 # Tasks | Codewars
 
 ## Initial level!!
-* <s>Function 1 - hello world https://www.codewars.com/kata/function-1-hello-world/javascript</s>
-* <s>Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/javascript</s>
-* <s>https://www.codewars.com/kata/will-you-make-it/train/javascript</s>
-* <s>https://www.codewars.com/kata/capitalization-and-mutability/train/javascript</s>
-* <s>https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript</s>
-* <s>If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep/javascript</s>
-* <s>Convert a string to an array https://www.codewars.com/kata/convert-a-string-to-an-array/javascript</s>
+* <s>Function 1 - hello world https://www.codewars.com/kata/function-1-hello-world/javascript
+* Remove First and Last Character https://www.codewars.com/kata/remove-first-and-last-character/javascript
+* https://www.codewars.com/kata/will-you-make-it/train/javascript
+* https://www.codewars.com/kata/capitalization-and-mutability/train/javascript
+* https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
+* If you can't sleep, just count sheeps!! https://www.codewars.com/kata/if-you-cant-sleep-just-count-sheep/javascript
+* Convert a string to an array https://www.codewars.com/kata/convert-a-string-to-an-array/javascript
 * Determine offspring sex based on genes XX and XY chromosomes https://www.codewars.com/kata/determine-offspring-sex-based-on-genes-xx-and-xy-chromosomes/javascript
 * Thinkful - Logic Drills: Traffic light https://www.codewars.com/kata/thinkful-logic-drills-traffic-light/javascript
 * The Feast of Many Beasts https://www.codewars.com/kata/the-feast-of-many-beasts/train/javascript
 * Simple multiplication https://www.codewars.com/kata/583710ccaa6717322c000105
-* Student's Final Grade https://www.codewars.com/kata/5ad0d8356165e63c140014d4
-* Type of sum https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba
+* Student's Final Grade https://www.codewars.com/kata/5ad0d8356165e63c140014d4 
+* Type of sum https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba 
 * Sleigh Authentication https://www.codewars.com/kata/52adc142b2651f25a8000643
-* Switch it Up! https://www.codewars.com/kata/5808dcb8f0ed42ae34000031
+* Switch it Up! https://www.codewars.com/kata/5808dcb8f0ed42ae34000031</s>
 
 
 ## Strings
