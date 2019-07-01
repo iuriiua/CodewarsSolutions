@@ -22,7 +22,7 @@
 * ### Random case https://www.codewars.com/kata/random-case/train/javascript
 * ### Alphabet symmetry https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0
 * <s>Credit card issuer checking https://www.codewars.com/kata/5701e43f86306a615c001868 </s>
-* Create Phone Number https://www.codewars.com/kata/525f50e3b73515a6db000b83
+* <s>Create Phone Number https://www.codewars.com/kata/525f50e3b73515a6db000b83</s>
 * Remove String Spaces https://www.codewars.com/kata/57eae20f5500ad98e50002c5
 * Who is going to pay for the wall?  https://www.codewars.com/kata/58bf9bd943fadb2a980000a7
 * Do I get a bonus? https://www.codewars.com/kata/56f6ad906b88de513f000d96
