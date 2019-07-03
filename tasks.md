@@ -28,7 +28,7 @@
 * Do I get a bonus? https://www.codewars.com/kata/56f6ad906b88de513f000d96
 * Returning Strings https://www.codewars.com/kata/55a70521798b14d4750000a4
 * String ends with? https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d</s>
-* Print a Rectangle Using Asterisks https://www.codewars.com/kata/5937ae46377144bb2f000029
+* ###Print a Rectangle Using Asterisks https://www.codewars.com/kata/5937ae46377144bb2f000029
 * sPoNgEbOb MeMe https://www.codewars.com/kata/5982619d2671576e90000017
 * String average https://www.codewars.com/kata/5966847f4025872c7d00015b
 * Are we alternate? https://www.codewars.com/kata/59325dc15dbb44b2440000af
