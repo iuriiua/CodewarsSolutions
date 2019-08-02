@@ -33,9 +33,9 @@
 * String average https://www.codewars.com/kata/5966847f4025872c7d00015b
 * Are we alternate? https://www.codewars.com/kata/59325dc15dbb44b2440000af
 * Ordering the words! https://www.codewars.com/kata/55d7e5aa7b619a86ed000070
-* Shortest Word https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+* <s> Shortest Word https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9</s>
 * Double Char https://www.codewars.com/kata/56b1f01c247c01db92000076
-* Convert boolean values to strings 'Yes' or 'No'. https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no
+* <s>Convert boolean values to strings 'Yes' or 'No'. https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no</s>
 * Simple Simple Simple String Expansion https://www.codewars.com/kata/5ae326342f8cbc72220000d2
 * Fix string case http://www.codewars.com/kata/fix-string-case/javascript
 * Bit Counting https://www.codewars.com/kata/bit-counting/javascript
