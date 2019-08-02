@@ -37,11 +37,11 @@
 * Double Char https://www.codewars.com/kata/56b1f01c247c01db92000076
 * <s>Convert boolean values to strings 'Yes' or 'No'. https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no</s>
 * Simple Simple Simple String Expansion https://www.codewars.com/kata/5ae326342f8cbc72220000d2
-* Fix string case http://www.codewars.com/kata/fix-string-case/javascript
+* <s>Fix string case http://www.codewars.com/kata/fix-string-case/javascript</s>
 * Bit Counting https://www.codewars.com/kata/bit-counting/javascript
 * Fake Binary https://www.codewars.com/kata/fake-binary/javascript
 * RGB To Hex Conversion http://www.codewars.com/kata/rgb-to-hex-conversion/javascript
-* Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086
+* <s>Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086</s>
 * Vowel Count https://www.codewars.com/kata/vowel-count/javascript
 * Vowel one https://www.codewars.com/kata/vowel-one/javascript
 * Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript
