@@ -75,7 +75,7 @@
 * String Reordering https://www.codewars.com/kata/string-reordering/javascript
 * Arrays Similar https://www.codewars.com/kata/arrays-similar/javascript
 * A Gift Well Spent https://www.codewars.com/kata/a-gift-well-spent/javascript (Solution https://youtu.be/nUnjuTRh2AQ)
-* Maximum Triplet Sum (Array Series #7) https://www.codewars.com/kata/5aa1bcda373c2eb596000112
+* Maximum Triplet Sum (Array Series #7) https://www.codewars.com/kata/
 * Where my anagrams at? https://www.codewars.com/kata/523a86aa4230ebb5420001e1
 * Abbreviate a Two Word Name https://www.codewars.com/kata/abbreviate-a-two-word-name/javascript
 * A Needle in the Haystack http://www.codewars.com/kata/a-needle-in-the-haystack/javascript
