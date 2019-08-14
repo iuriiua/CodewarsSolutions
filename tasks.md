@@ -41,10 +41,10 @@
 * Bit Counting https://www.codewars.com/kata/bit-counting/javascript
 * Fake Binary https://www.codewars.com/kata/fake-binary/javascript
 * RGB To Hex Conversion http://www.codewars.com/kata/rgb-to-hex-conversion/javascript
-* <s>Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086</s>
+* <s>Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086
 * Vowel Count https://www.codewars.com/kata/vowel-count/javascript
 * Vowel one https://www.codewars.com/kata/vowel-one/javascript
-* Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript
+* Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript</s>
 * WeIrD StRiNg CaSe https://www.codewars.com/kata/weird-string-case/javascript
 * Odd-Even String Sort https://www.codewars.com/kata/odd-even-string-sort/solutions/javascript
 * Convert to Binary https://www.codewars.com/kata/59fca81a5712f9fa4700159a
