@@ -43,8 +43,13 @@
 * RGB To Hex Conversion http://www.codewars.com/kata/rgb-to-hex-conversion/javascript
 * <s>Capitalization and Mutability https://www.codewars.com/kata/595970246c9b8fa0a8000086
 * Vowel Count https://www.codewars.com/kata/vowel-count/javascript
+<<<<<<< HEAD
 * Vowel one https://www.codewars.com/kata/vowel-one/javascript
 * Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript</s>
+=======
+* Vowel one https://www.codewars.com/kata/vowel-one/javascript</s>
+* Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript
+>>>>>>> b9d79a8b70d7ba3056e556dab00c01bf295e0cc8
 * WeIrD StRiNg CaSe https://www.codewars.com/kata/weird-string-case/javascript
 * Odd-Even String Sort https://www.codewars.com/kata/odd-even-string-sort/solutions/javascript
 * Convert to Binary https://www.codewars.com/kata/59fca81a5712f9fa4700159a
