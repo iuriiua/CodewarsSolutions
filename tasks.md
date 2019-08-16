@@ -59,8 +59,8 @@
 
 
 ## Arrays
-* Reverse List Order https://www.codewars.com/kata/reverse-list-order/javascript 
-* Calculate average https://www.codewars.com/kata/calculate-average/train/javascript
+* <s>Reverse List Order https://www.codewars.com/kata/reverse-list-order/javascript
+* Calculate average https://www.codewars.com/kata/calculate-average/train/javascript</s>
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
 * You only need one - Beginner https://www.codewars.com/kata/57cc975ed542d3148f00015b 
 * Sum ALL the arrays! https://www.codewars.com/kata/5594463eaf1701909c0000d4
