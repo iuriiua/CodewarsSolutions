@@ -45,13 +45,9 @@
 * Vowel Count https://www.codewars.com/kata/vowel-count/javascript
 <<<<<<< HEAD
 * Vowel one https://www.codewars.com/kata/vowel-one/javascript
-* Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript</s>
-=======
-* Vowel one https://www.codewars.com/kata/vowel-one/javascript</s>
 * Simple Pig Latin http://www.codewars.com/kata/simple-pig-latin/javascript
->>>>>>> b9d79a8b70d7ba3056e556dab00c01bf295e0cc8
 * WeIrD StRiNg CaSe https://www.codewars.com/kata/weird-string-case/javascript
-* Odd-Even String Sort https://www.codewars.com/kata/odd-even-string-sort/solutions/javascript
+* Odd-Even String Sort https://www.codewars.com/kata/odd-even-string-sort/solutions/javascript</s>
 * Convert to Binary https://www.codewars.com/kata/59fca81a5712f9fa4700159a
 * String repeat https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 * Reversed Strings https://www.codewars.com/kata/5168bb5dfe9a00b126000018
