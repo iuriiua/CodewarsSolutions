@@ -56,15 +56,15 @@
 
 ## Arrays
 * <s>Reverse List Order https://www.codewars.com/kata/reverse-list-order/javascript
-* Calculate average https://www.codewars.com/kata/calculate-average/train/javascript</s>
+* Calculate average https://www.codewars.com/kata/calculate-average/train/javascript
 * Initialize my name https://www.codewars.com/kata/5768a693a3205e1cc100071f
-* You only need one - Beginner https://www.codewars.com/kata/57cc975ed542d3148f00015b 
-* Sum ALL the arrays! https://www.codewars.com/kata/5594463eaf1701909c0000d4
-* Man in the west https://www.codewars.com/kata/59bd5dc270a3b7350c00008b
+* You only need one - Beginner https://www.codewars.com/kata/57cc975ed542d3148f00015b </s>
+* ### Sum ALL the arrays! https://www.codewars.com/kata/5594463eaf1701909c0000d4
+* <s>Man in the west https://www.codewars.com/kata/59bd5dc270a3b7350c00008b
 * Kata Example Twist https://www.codewars.com/kata/525c1a07bb6dda6944000031
 * Invert values https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 * Remove duplicates from list https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118
-* Write shortest function to calculate Average number of Array https://www.codewars.com/kata/56c22cdbe0c0f7cae2001789
+* Write shortest function to calculate Average number of Array https://www.codewars.com/kata/56c22cdbe0c0f7cae2001789</s>
 * Sort the odd https://www.codewars.com/kata/578aa45ee9fd15ff4600090d
 * Array Array Array https://www.codewars.com/kata/array-array-array/train/javascript
 * Create Four Letter Birding Codes from Bird Names https://www.codewars.com/kata/create-four-letter-birding-codes-from-bird-names/javascript
